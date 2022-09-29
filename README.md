@@ -21,7 +21,7 @@
 
 ### Minha Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thais4rauj0&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style = "display: inline_block"><br/>
