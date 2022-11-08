@@ -2,7 +2,7 @@
 <br/>
 <ul>
     <li>📚 Sou estudante de Sistemas para Internet na FIAP</li>
-    <li>🌱 Estou aprendendo Java</li>
+    <li>🌱 Estou aprendendo React</li>
     <li>💬 Me peça dicas de estudo, eu vou adorar te ajudar com isso</li>
 </ul>
 
