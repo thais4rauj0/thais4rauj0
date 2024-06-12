@@ -1,8 +1,8 @@
 ### Olá, meu nome é Thais Araújo! 👋 <br/>
 <br/>
 <ul>
-    <li>📚 Sou estudante de Sistemas para Internet na FIAP</li>
-    <li>🌱 Trabalho com Observabilidade</li>
+    <li>Sou formada em Sistemas para Internet</li>
+    <li>Estudo sobre dados e observabilidade</li>
     <li>💬 Me peça dicas de estudo, eu vou adorar te ajudar com isso</li>
 </ul>
 
